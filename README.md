@@ -4,8 +4,7 @@ OBJECTIVES: A. To analyse the estimated salary of individuals by
         2. Geography
         3. Hascrcard
         4. isActiveMember
-   B.Create a dashboard to show insight  
-
+   B.Create a dashboard to show insight 
 TOOLS:
 1.Python
 2.pandas
